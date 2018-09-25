@@ -1,6 +1,6 @@
 ## Definition of a pair of functions to calculate the inverse of a matrix and cache the result
 
-# Definition of function cacheSolve: this function cachesthe value of the inverse of a given matrix.
+# Definition of function cacheSolve: this function caches the value of the inverse of a given matrix.
 
 cacheSolve <- function(x = matrix()) {
         ## Return a matrix that is the inverse of 'x'
